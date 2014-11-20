@@ -9,7 +9,11 @@ someone that I've spoken to about Node in general, or Nodeschool in specific. I 
 with a fantastic place to hold several Nodeschool workshops this Spring and Summer. I'm also on the lookout for some help with 
 Proctors and Speakers.
 
-I have also setup a Facebook community page to support these efforts, please see [IslandJS](http://www.facebook.com/IslandJS) for 
+I've created the GitHub organization, [IslandJS](https://github.com/IslandJS), to act as a staging location for different projects 
+we may want to integrate and use in our workshops on the island. In particular, I've forked the code-dot-org blockly project; which 
+would be nice to transform/consume/use into a similar format as the NodeJS workshops.
+
+Finally, I have setup a Facebook community page to support these efforts, please see [IslandJS](http://www.facebook.com/IslandJS) for 
 updates and news driven by this repository.
 
 Welcome!
