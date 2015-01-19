@@ -18,15 +18,17 @@
 ### Park and Rec
 
 Tell them that we have a skill that we would like to teach. We would need to have a
-larger web present in place at least a month before we even want to speak with Park 
+larger web presence in place at least a month before we even want to speak with Park 
 and Rec.
 
 Start off small, host one or two classes. Go through Bainbridge Island Review,
-Islander Magazine, High School Flyers on the Ferry boat.
+Islander Magazine, High School, Flyers on the Ferry boat.
 
 ### islandjs.org
 
 Put together basic web site at islandjs.org. Possibility to host the website on Ryan's servers. 
+A polling mechanism on the page would be helpful; we'd like to use that to research who has
+an interest and what their experience with programming is.
 
 ### High School
 
