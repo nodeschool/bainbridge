@@ -12,4 +12,8 @@ We also own a Meetup Page: <http://www.meetup.com/IslandJS-Nodeschool> and Domai
 
 Finally, our Facebook community page also helps to support these efforts, [IslandJS](http://www.facebook.com/IslandJS), and serves as a means to let more people know about the group and our upcoming workshops and meetings!
 
+London Nodeschool has some really excellent advice for our first session, I'm hoping to follow a similar plan on the 23rd, with International Day events mixed in.
+
+<https://github.com/nodeschool/london/tree/master/bluffers-guide-to-nodeschool>
+
 Welcome!
