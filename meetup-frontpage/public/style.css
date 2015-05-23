@@ -1,0 +1,17 @@
+body
+{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-family: 'Helvetica';
+}
+
+a
+{
+    color: #888;
+}
+
+a:hover
+{
+    color: #fff;
+}
