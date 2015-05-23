@@ -1,8 +1,25 @@
 var express = require('express');
 var app = express();
 var os = require('os');
+var fs = require('fs');
 
 app.use(express.static('public'));
+
+app.use (function(req, res, next)
+{
+    var data='';
+    req.setEncoding('utf8');
+    req.on('data', function(chunk)
+    {
+       data += chunk;
+    });
+
+    req.on('end', function()
+    {
+        req.body = data;
+        next();
+    });
+});
 
 app.get('/ip.txt', function(req, res)
 {
@@ -21,6 +38,13 @@ app.get('/ip.txt', function(req, res)
             }
         }
     }
+});
+
+app.post('/rolecall.js', function(req, res)
+{
+    fs.appendFile('./rolecall.txt', req.body + '\n', function(err) {});
+
+    res.sendStatus(204);
 });
 
 var server = app.listen(80, function()

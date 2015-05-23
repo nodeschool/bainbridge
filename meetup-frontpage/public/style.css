@@ -15,3 +15,8 @@ a:hover
 {
     color: #fff;
 }
+
+.code
+{
+    font-family: 'Monaco';
+}
