@@ -4,12 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/tape/bin/tape test/suite.js | node_modules/tap-colorize/bin/cmd.js",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.13.3",
     "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "hamjest": "^2.13.0",
+    "hippie": "^0.4.0",
+    "istanbul": "^0.4.0",
+    "supertest": "^1.1.0",
+    "tap-colorize": "^1.2.0",
+    "tape": "^4.2.2"
   }
 }
