@@ -43,6 +43,5 @@ test('testGetVinyl', function(t) {
     .get('/vinyl')
     .expect('200')
     .end(function(err, res) {
-      t.fail('Not complete.'); 
       t.end();});
 });  

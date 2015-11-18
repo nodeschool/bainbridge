@@ -1,7 +1,7 @@
 var getRecordsFilteredByTerm = function(req, res, next)
 {
     var term = req.params.term;
-
+debugger;
     if(typeof term !== 'undefined' && term.length)
     {
         var filteredRecords = req.resources.records.filter(function(ob)
@@ -10,7 +10,7 @@ var getRecordsFilteredByTerm = function(req, res, next)
                     ob.group.toLowerCase().indexOf(term.toLowerCase()) != -1;
         });
 
-        res.json(filteredBooks);
+        res.json(filteredRecords);
     }else
     {
         res.json(req.resources.records);

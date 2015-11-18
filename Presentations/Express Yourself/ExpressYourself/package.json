@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node_modules/tape/bin/tape test/suite.js | node_modules/tap-colorize/bin/cmd.js",
+    "coverage": "node_modules/istanbul/lib/cli.js cover test/suite.js",
     "start": "node index.js"
   },
   "author": "",
