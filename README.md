@@ -12,7 +12,7 @@
 - If you have any questions, use this form to contact us: https://github.com/nodeschool/bainbridge/issues
 
 ### Background
-We own the GitHub organization, [IslandJS](https://github.com/IslandJS), which acts as a staging location for different projects used in our workshops on the island. 
+We own the GitHub organization, [IslandJS](https://github.com/IslandJS), which acts as a staging location for different projects used in our workshops on the island.
 
 We also own a Meetup Page: <http://www.meetup.com/IslandJS-Nodeschool> and Domain: <http://islandjs.org>.
 
@@ -35,7 +35,7 @@ Once you have Node installed correctly, install the first two beginner workshops
  - For **Windows**: Open Command Prompt as Administrator and run: `npm install -g learnyounode javascripting`
  - Verify everything installed correctly by running `learnyounode`. You will see a menu like this: <br />
 
-<img src="https://github.com/sethvincent/javascripting/raw/master/screenshot.png">
+<img src="https://github.com/nodeschool/bainbridge/blob/master/assets/learnyounode-screenshot.png">
 
 There are lots of other workshops to choose from. Visit http://nodeschool.io for more information.
 
@@ -43,9 +43,9 @@ There are lots of other workshops to choose from. Visit http://nodeschool.io for
 ## Set up your development environment
 The easiest way to get started is to choose a good text editor designed for development purposes. If you already have a text editor you like to use, there is no need to read further. You are now ready for NodeSchool!
 
-Otherwise, popular text editors include: [Sublime](http://www.sublimetext.com/3), [Atom](https://atom.io/), [Brackets](http://brackets.io/), [VS Code](https://code.visualstudio.com/), and [Notepad++](https://notepad-plus-plus.org/download/). Install any of those and we'll help you with the rest the next time we see you at a NodeSchool meetup. 
+Otherwise, popular text editors include: [Sublime](http://www.sublimetext.com/3), [Atom](https://atom.io/), [Brackets](http://brackets.io/), [VS Code](https://code.visualstudio.com/), and [Notepad++](https://notepad-plus-plus.org/download/). Install any of those and we'll help you with the rest the next time we see you at a NodeSchool meetup.
 
 ## Questions, problems, advice
 
-If you run into any issues or have questions before joining us for a meetup, feel free to open an issue: https://github.com/nodeschool/bainbridge/issues.<br /> 
+If you run into any issues or have questions before joining us for a meetup, feel free to open an issue: https://github.com/nodeschool/bainbridge/issues.<br />
 If you have a technical issue getting Node or a Workshop installed, please be sure to include your Operating System and Node version as well to help with the troubleshooting.
