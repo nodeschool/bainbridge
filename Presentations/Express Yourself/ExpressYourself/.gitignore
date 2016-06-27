@@ -1,0 +1,3 @@
+coverage
+audioTest.ascii newTest.ascii start-vinyl-unit.ascii
+*.ascii
