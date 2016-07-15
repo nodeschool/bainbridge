@@ -5,7 +5,7 @@
 ## Welcome!
 **This is an online space for Nodeschool meetups on Bainbridge Island, Washington.**
 
-- Learn more about us at http://islandjs.org
+- Learn more about us at http://nodeschool.io/bainbridge
 
 - Sign up for our next event at: http://www.meetup.com/IslandJS-Nodeschool
 
@@ -16,7 +16,7 @@ We own the GitHub organization, [IslandJS](https://github.com/IslandJS), which a
 
 We also own a Meetup Page: <http://www.meetup.com/IslandJS-Nodeschool> and Domain: <http://islandjs.org>.
 
-Finally, our Facebook community page, [IslandJS](http://www.facebook.com/IslandJS), also helps to support these efforts and serves as a means to let more people know about the group and our upcoming workshops and meetings!
+Finally, our Facebook community page, [IslandJS](http://www.facebook.com/IslandJS), and [Twitter Stream](https://twitter.com/island_js) also helps to support these efforts to let more people know about the group and our upcoming workshops and meetings!
 
 ## How To: Prepare for a NodeSchool meetup
 
