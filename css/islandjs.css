@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  min-height: 100vh;
+  min-width: 15em;
+ }
+main {
+  flex: 1 0 auto;
+}
+.card-title {
+  line-height: 2.5em;
+}
+#map-canvas {
+  height: 30em;
+}
