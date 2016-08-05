@@ -1,5 +1,19 @@
 $(document).ready(function () {
+
+  // Hide survey button if user has already completed it.
+  var surveyCookie;
+  if (localStorage) {
+    surveyCookie = localStorage.getItem('survey');
+  } else {
+    surveyCookie = $.cookie('survey'); }
+
+  // commenting this out for now until the survey is tested.
+  //if (!surveyCookie) $('#survey').removeClass('hiddendiv');
+
+  // Initilize parallax
   $('.parallax').parallax();
+
+  // Populate Meetup Information
   getMeetupInfo();
 });
 
