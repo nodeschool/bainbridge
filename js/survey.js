@@ -47,6 +47,7 @@ $(document).ready(function () {
     };
 
     $.ajax({
+      url: 'http://islandjs.org:3000/survey/spring',
       type: 'POST',
       crossDomain: true,
       data: JSON.stringify(results),
