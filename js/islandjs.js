@@ -1,3 +1,8 @@
+/*!
+ * islandjs.js v0.1 (http://nodeschool.io/bainbridge)
+ * Copyright (c) 2016 IslandJS, Bainbridge Island NodeSchool
+ * MIT License (https://github.com/nodeschool/bainbridge/blob/gh-pages/LICENSE)
+ */
 $(document).ready(function () {
 
   // Hide survey button if user has already completed it.
