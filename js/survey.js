@@ -1,5 +1,5 @@
 /*!
- * survey.js v0.1 (http://nodeschool.io/bainbridge)
+ * survey.js v0.1 (https://nodeschool.io/bainbridge)
  * Copyright (c) 2016 IslandJS, Bainbridge Island NodeSchool
  * MIT License (https://github.com/nodeschool/bainbridge/blob/gh-pages/LICENSE)
  */
@@ -52,7 +52,7 @@ $(document).ready(function () {
     };
 
     $.ajax({
-      url: 'http://islandjs.org:3000/survey/spring',
+      url: 'https://', \\ TODO: https://github.com/nodeschool/bainbridge/issues/11
       type: 'POST',
       crossDomain: true,
       data: JSON.stringify(results),

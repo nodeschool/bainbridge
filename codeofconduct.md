@@ -28,14 +28,14 @@ please contact an organizer immediately.
 ### **Bainbridge Island NodeSchool and Open Projects**
 
 * Organizers: **Andrew Waterman (@awaterma), Ryan Lane (@flagoworld), Tyler Moeller (@tyler_moeller)**
-* Meetup URL: http://www.meetup.com/IslandJS-Nodeschool/
+* Meetup URL: https://www.meetup.com/IslandJS-Nodeschool/
 
 **If you have questions or feedback about this Code of Conduct please contact
 one of the organizers.**
 
 The organizers of the above community developed this Code of Conduct to
 govern their respective events and communication channels. We used [PDX
-Python's anti-harassment policy](http://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
+Python's anti-harassment policy](https://www.meetup.com/pdxpython/pages/Code_of_Conduct/)
 and the [Geek Feminism Conference anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 as a starting point. This Code of Conduct, like its inspirations, is licensed under
-the [Creative Commons Zero license](http://creativecommons.org/publicdomain/zero/1.0/).
+the [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/).

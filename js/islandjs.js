@@ -1,5 +1,5 @@
 /*!
- * islandjs.js v0.1 (http://nodeschool.io/bainbridge)
+ * islandjs.js v0.1 (https://nodeschool.io/bainbridge)
  * Copyright (c) 2016 IslandJS, Bainbridge Island NodeSchool
  * MIT License (https://github.com/nodeschool/bainbridge/blob/gh-pages/LICENSE)
  */

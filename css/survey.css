@@ -1,5 +1,5 @@
 /*!
- * survey.css v0.1 (http://nodeschool.io/bainbridge)
+ * survey.css v0.1 (https://nodeschool.io/bainbridge)
  * Copyright (c) 2016 IslandJS, Bainbridge Island NodeSchool
  * MIT License (https://github.com/nodeschool/bainbridge/blob/gh-pages/LICENSE)
  */
@@ -19,7 +19,7 @@ main {
   max-width: 1024px;
 }
 header {
-  background-image: url('http://nodeschool.io/bainbridge/img/BIFerry.jpg');
+  background-image: url('https://nodeschool.io/bainbridge/img/BIFerry.jpg');
   background-position: center center;
   background-size: cover;
   height: 15em;
