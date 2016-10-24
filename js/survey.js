@@ -52,7 +52,8 @@ $(document).ready(function () {
     };
 
     $.ajax({
-      url: 'https://', \\ TODO: https://github.com/nodeschool/bainbridge/issues/11
+      // TODO: https://github.com/nodeschool/bainbridge/issues/11
+      url: '',
       type: 'POST',
       crossDomain: true,
       data: JSON.stringify(results),
